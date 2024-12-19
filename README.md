@@ -1,6 +1,6 @@
 # ws-p2p-dilithium 
 
-**A Open-Source Peer-to-Peer DILITHIUM2 Communication**
+**A Open-Source Peer-to-Peer DILITHIUM4 Communication**
 
 ws-p2p-dilithium provides a peer-to-peer (P2P) communication with [DILITHIUM4](https://pq-crystals.org/dilithium/), using the [ws-p2p-framework](https://github.com/NotReeceHarris/ws-p2p-framework).
 
