@@ -1,8 +1,8 @@
-# ws-p2p-rsa
+# ws-p2p-dilithium 
 
-**A Open-Source Peer-to-Peer RSA Communication**
+**A Open-Source Peer-to-Peer DILITHIUM2 Communication**
 
-ws-p2p-rsa provides a peer-to-peer (P2P) communication with RSA, using the [ws-p2p-framework](https://github.com/NotReeceHarris/ws-p2p-framework).
+ws-p2p-dilithium provides a peer-to-peer (P2P) communication with [DILITHIUM2](https://pq-crystals.org/dilithium/), using the [ws-p2p-framework](https://github.com/NotReeceHarris/ws-p2p-framework).
 
 ## Usage
 
